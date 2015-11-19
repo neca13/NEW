@@ -1,9 +1,0 @@
-#EXTINF:-1 group-title="HD",[COLOR white]                                         [COLOR yellow]CANAIS DESPORTO[/COLOR] [COLOR red]HD[/COLOR]/[COLOR blue]SD[/COLOR][/COLOR]
-#EXTINF:-1 group-title="HD",[COLOR green]     [/COLOR]
-#EXTINF:-1 group-title="HD",[COLOR yellow]                                            atualizada 18-11-2015   [/COLOR]
-#EXTINF:-1 group-title="HD",[COLOR green]     [/COLOR]
-
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR] 
-plugin://program.plexus/?mode=1&url=acestream://c39db61fd585ebfa446983d0af9d9d637df9678c&mode=1&name=acestream&mode=1&name=SPORT TV 1
-#EXTINF:-1 group-title="PLEXUS", [COLOR red] SPORT TV 1 [/COLOR] 
-plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&mode=1&name=SportTV1
